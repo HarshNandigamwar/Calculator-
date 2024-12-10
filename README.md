@@ -1,1 +1,1 @@
-It is a simple Calendar web app i create using HTML , CSS & js 
+It is a simple Calculator web app i create using HTML , CSS & js 
